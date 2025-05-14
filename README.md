@@ -1,8 +1,8 @@
-##Contact Manager - Projet Java
+Contact Manager - Projet Java
 
 Ce projet est une application Java simple permettant de gérer une liste de contacts. Il permet d'ajouter des contacts (nom et numéro de téléphone) et de rechercher un contact par son nom.
 
-###Fonctionnalités
+Fonctionnalités
 
 Ajouter un nouveau contact
 
@@ -11,7 +11,7 @@ Rechercher un contact par son nom
 Capacité maximale : 50 contacts
 
 
-###Structure du projet
+Structure du projet
 
 Contact : Classe représentant un contact avec un nom et un numéro de téléphone.
 
